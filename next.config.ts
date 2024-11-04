@@ -1,4 +1,3 @@
-// next.config.js
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
@@ -8,4 +7,4 @@ const nextConfig = {
   trailingSlash: true,
 }
 
-module.exports = nextConfig 
+module.exports = nextConfig
